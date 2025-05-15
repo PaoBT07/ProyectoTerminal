@@ -6,7 +6,7 @@ package ClasesPlanas;
 
 /**
  *
- * @author Paola Barrera Tenorio
+ * @author Paola Barrera Tenorio 2192007348
  */
 
 import ConexionBD.Conexion;
